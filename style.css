@@ -1,0 +1,42 @@
+html{
+    background-color: #658183;
+}
+.menu{
+    display:flex;
+    gap:20px;
+    justify-content: space-around;
+    background-color: #4F6367;
+}
+.menu h1{
+    margin-right: 40px;
+    min-width: 50px;  
+    color:#D4D7CD; 
+}
+
+.menu a{
+    flex-basis: 40px;
+    color:#D4D7CD;
+}
+.menu a {
+    text-decoration: none;
+}
+.description .menu-image{ 
+    top:20px;
+    width:400px;
+    height:300px;
+    float: right;
+}
+
+.description .image-desc{
+    position: relative;
+    top:30px;
+    text-align: center;
+}
+.description .copyright{
+    position:relative;
+    top:60px;
+    text-align: center;
+}
+footer{
+    clear:right;
+}

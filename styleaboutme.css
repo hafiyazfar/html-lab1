@@ -1,0 +1,27 @@
+.first-image{
+    height:300px;
+    float:right;
+    position:relative;
+    border: 5px solid #4F6367;
+}
+.first-paragraph{
+    text-align: center;
+    position:relative;
+    padding: 20px;
+}
+.second-image{
+    height:300px;
+    float:left;
+    border:5px solid #4F6367;
+}
+.second-paragraph{
+    text-align: center;
+    position:relative;
+    top:3px;
+    padding:20px
+}
+.go-back{
+    float:right;
+    position:relative;
+    top:20px;
+}

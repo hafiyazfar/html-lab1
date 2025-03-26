@@ -1,0 +1,29 @@
+
+ul h2{
+    color: #D4D7CD;
+}
+.spm-grade{
+    width: 300px;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 18px;
+    text-align: left;
+    
+}
+tr,td{
+    border: 1px solid black;
+    padding: 10px;
+}
+th {
+    background-color: #f2f2f2;
+}
+.dean-award img{
+    float:right;
+    width: 230px;
+    position:relative;
+    bottom:40px; 
+}
+.exit{
+    position:relative;
+    left:90%
+}
